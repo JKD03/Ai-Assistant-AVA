@@ -38,7 +38,8 @@ Ava AI Voice assistant:"Loading your personal Assistant....
          
 		Input : Ava, what's the latest news?
 
-![Screenshot (131)](https://github.com/JKD03/Ai-Assistant-AVA/assets/109353553/3f7b7223-9bde-4c3e-9238-6c9aa74ac2f5)
+![Screenshot (132)](https://github.com/JKD03/Ai-Assistant-AVA/assets/109353553/5b5da3bb-9fd2-48fd-b75d-0dc32901ee9f)
+
 
 		
 		
